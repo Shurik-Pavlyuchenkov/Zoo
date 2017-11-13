@@ -55,6 +55,3 @@ freeline.py
 freeline/
 freeline_project_description.json
 
-AndroidApplication/Zoo/\.idea/
-
-AndroidApplication/Zoo/gradlew\.bat
